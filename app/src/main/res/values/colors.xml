@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="btnSpeak">#1d58ff</color>
+    <color name="backgroundPanel">#00464d</color>
+    <color name="surfaceDefault">#b0629f</color>
+</resources>
